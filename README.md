@@ -14,8 +14,8 @@ npm run --dev -- --open
 
 ## To-Do
 
-[x] UI/UX - Add Snippets, Display Added Snippets
-[x] Search - Filter Snippets
-[x] Delete Snippets, Edit Snippets
-[ ] Implement DB based storage
-[ ] Containerized Backend
+- [x] UI/UX - Add Snippets, Display Added Snippets
+- [x] Search - Filter Snippets
+- [x] Delete Snippets, Edit Snippets
+- [ ] Implement DB based storage
+- [ ] Containerized Backend
